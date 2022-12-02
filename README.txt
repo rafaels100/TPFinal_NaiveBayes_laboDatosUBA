@@ -1,4 +1,4 @@
-#TP Final Laboratorio de Datos: Análisis de tweets sobre películas
+TP Final Laboratorio de Datos: Análisis de tweets sobre películas
 
 En este trabajo final para la materia Laboratorio de Datos dictada para la carrera Lic. en Ciencias de Datos de la UBA entrenamos un modelo de clasificación
 utilizando Naive Bayes para clasificar Tweets basados en las palabras utilizadas en éstos. El modelo se entrenó con una base de datos de reviews de peliculas obtenidas
