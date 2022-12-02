@@ -7,5 +7,4 @@ en el sitio https://www.imdb.com/, donde aprendió a clasificar (de manera super
 Luego, utilizamos el modelo entrenado para clasificar una base de datos de tweets sobre peliculas, en 'reviews' positivas o negativas, según las palabras utilizadas en el
 tweet.
 Observamos luego las distribuciones de comentarios positivos y negativos en ambos sitios, Twitter e IMBD, y pudimos comprobar que las opiniones de las personas
-en ambos sitios eran muy similares: el modelo clasificó similares porcebtajes de reviews positivas y negativas para las peliculas que analizamos en IMDB de manera 
-supervisada.
+en ambos sitios eran muy similares: el modelo clasificó similares porcentajes de reviews positivas y negativas para las peliculas que analizamos en IMDB.
